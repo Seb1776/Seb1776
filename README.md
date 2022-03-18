@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there! 👋 The name's Sebastian!
 
-<!--
-**Seb1776/Seb1776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+**I'm a passionate game designer/developer from Cali, Colombia**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Indie Games**
+- 🌱 I’m currently learning **AR/VR Development**
+- 👯 I’m looking to collaborate on **Unity Projects**
+- 💬 Ask me about **C# / Unity / Game Development and or Design**
+- 📫 How to reach me: **sebastianwho1776@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love video games, specially platformers or heavy action games. My favorite game is DOOM. **Kar En Tuk!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages/Tools:
+[<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width=40px>](https://unity.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width=38px>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seb1776&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+**"A delayed game is eventually good. A rushed game is forever bad" -Shigeru Miyamoto**
