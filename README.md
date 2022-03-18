@@ -3,10 +3,10 @@
 ___
 **I'm a passionate game designer/developer from Cali, Colombia**
 
-- 🔭 I’m currently working on **Indie Games**
-- 🌱 I’m currently learning **AR/VR Development**
-- 👯 I’m looking to collaborate on **Unity Projects**
-- 💬 Ask me about **C# / Unity / Game Development and or Design**
+- 🔭 I’m currently working on: **Indie Games**
+- 🌱 I’m currently learning: **AR/VR Development**
+- 👯 I’m looking to collaborate on: **Unity Projects**
+- 💬 Ask me about: **C# / Unity / Game Development and or Design**
 - 📫 How to reach me: **sebastianwho1776@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love video games, specially platformers or heavy action games. My favorite game is DOOM. **Kar En Tuk!**
