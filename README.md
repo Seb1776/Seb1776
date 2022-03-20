@@ -9,7 +9,7 @@ ___
 - 💬 Ask me about: **C# / Unity / Game Development and or Design**
 - 📫 How to reach me: **sebastianwho1776@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love video games, specially platformers or heavy action games. My favorite game is DOOM. **Kar En Tuk!**
+- ⚡ Fun fact: I love video games, specially platformers or heavy action games. My favorite games are DOOM (**Kar En Tuk!**) and PAYDAY (**The Thrmal Drill!**)
 
 ### Languages/Tools:
 [<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width=40px>](https://unity.com)
