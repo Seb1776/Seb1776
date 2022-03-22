@@ -3,7 +3,7 @@
 ___
 **I'm a passionate game designer/developer from Cali, Colombia**
 
-- 🔭 I’m currently working on: **Indie Games**
+- 🔭 I’m currently working on: **[Salchipapa Studio](https://github.com/Seb1776/Salchipapa-Studio)** and **[Project Backtracked](https://github.com/Seb1776/Project-Backtracked)**
 - 🌱 I’m currently learning: **AR/VR Development**
 - 👯 I’m looking to collaborate on: **Unity Projects**
 - 💬 Ask me about: **C# / Unity / Game Development and or Design**
